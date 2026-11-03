@@ -1,3 +1,5 @@
+> **这是 [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 的修改版**（基于上游 `a5c8f77`）：修了登录检测（能区分游客和真实登录），加了一个全局单例网关（串行、限速、扫码保护、写操作闸门）。改了什么见 [FORK.md](FORK.md)，网关用法见 [gateway/README.md](gateway/README.md)。以下是上游原来的 README。
+
 # xiaohongshu-mcp
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
