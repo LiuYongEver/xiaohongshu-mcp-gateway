@@ -2,7 +2,7 @@
 
 基于 [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 的提交 `a5c8f77`（2026-09-23），许可证沿用上游的 Apache-2.0（见 [LICENSE](LICENSE)）。上游的提交历史和作者信息都完整保留。
 
-除了下面两处，其余文件和上游 `a5c8f77` 完全一致。
+除了下面两处代码改动和几份文档，其余文件和上游 `a5c8f77` 完全一致。文档的变化是：`README.md` 换成了我们自己的说明（含实际运营数据），上游原来的 README 移到了 `README.upstream.md`，`README_EN.md` 顶部加了一行说明。
 
 ## 1. 登录检测：区分游客和真实登录
 

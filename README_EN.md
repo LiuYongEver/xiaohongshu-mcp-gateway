@@ -1,3 +1,5 @@
+> This is the **upstream** English README of [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp). For what this fork changes and the results from our own account, see [README.md](README.md) (Chinese, with an English summary at the end).
+
 # xiaohongshu-mcp
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
